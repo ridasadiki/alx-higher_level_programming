@@ -1,2 +1,2 @@
-0x03. Python - Data Structures: Lists, Tuples
+Python
 project done by Rida
